@@ -6,6 +6,11 @@ theme = 'PaperMod'
 [outputs]
 home = ["HTML", "RSS", "JSON"] # necessary for search
 
+# Google Analytics Configuration (uncomment to use)
+# [services]
+#   [services.googleAnalytics]
+#     id = "G-XXXXXXXXXX"  # Replace with your Google Analytics ID
+
 [params]
 env = "production"
 title = "Scott的博客"
