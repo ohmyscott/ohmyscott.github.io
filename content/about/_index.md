@@ -1,9 +1,9 @@
-+++
-title = "关于我"
-date = 2025-11-28T00:54:11+08:00
-draft = false
-description = "关于 Scott 和这个博客"
-+++
+---
+title: "关于我"
+date: 2025-11-28T00:54:11+08:00
+draft: false
+description: "关于 Scott 和这个博客"
+---
 
 
 你好！我是 Scott 👋

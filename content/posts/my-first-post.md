@@ -1,18 +1,18 @@
-+++
-title = "我的第一篇博客"
-date = 2025-11-28T00:54:11+08:00
-draft = false
-tags = ["博客", "Hugo", "PaperMod"]
-categories = ["技术"]
-description = "使用 Hugo 和 PaperMod 主题搭建的个人博客"
-ShowToc = true
-TocOpen = true
-[cover]
-image = "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&h=300&fit=crop"
-alt = "Hugo和PaperMod主题博客封面图"
-caption = "使用 Hugo 静态网站生成器和 PaperMod 主题"
-relative = false
-+++
+---
+title: "我的第一篇博客"
+date: 2025-11-28T00:54:11+08:00
+draft: false
+tags: ["博客", "Hugo", "PaperMod"]
+categories: ["技术"]
+description: "使用 Hugo 和 PaperMod 主题搭建的个人博客"
+ShowToc: true
+TocOpen: true
+cover:
+  image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&h=300&fit=crop"
+  alt: "Hugo和PaperMod主题博客封面图"
+  caption: "使用 Hugo 静态网站生成器和 PaperMod 主题"
+  relative: false
+---
 
 
 欢迎来到我的博客！这是我用 [Hugo](https://gohugo.io/) 和 [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 主题搭建的第一篇博客。
