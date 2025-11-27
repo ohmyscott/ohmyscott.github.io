@@ -6,12 +6,6 @@ tags: ["博客", "Hugo", "PaperMod"]
 categories: ["技术"]
 description: "使用 Hugo 和 PaperMod 主题搭建的个人博客"
 ShowToc: true
-TocOpen: true
-cover:
-  image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&h=300&fit=crop"
-  alt: "Hugo和PaperMod主题博客封面图"
-  caption: "使用 Hugo 静态网站生成器和 PaperMod 主题"
-  relative: false
 ---
 
 
