@@ -1,13 +1,11 @@
 <!-- Google Analytics Template -->
 {{- $ga := site.Config.Services.GoogleAnalytics -}}
+{{- $ga4id := site.Params.googleAnalyticsID -}}
+
 {{- if $ga -}}
 {{ template "_internal/google_analytics.html" . -}}
-{{- end -}}
-
+{{- else if $ga4id -}}
 <!-- Alternative Google Analytics 4 -->
-{{- if not $ga -}}
-{{- $ga4id := site.Params.googleAnalyticsID -}}
-{{- if $ga4id -}}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ $ga4id }}"></script>
 <script>
@@ -17,10 +15,7 @@
 
   gtag('config', '{{ $ga4id }}');
 </script>
-{{- end -}}
-{{- end -}}
-
+{{- else -}}
 <!-- Fallback empty template if no analytics configured -->
-{{- if not (or $ga $ga4id) -}}
 <!-- Google Analytics not configured -->
 {{- end -}}
