@@ -106,9 +106,9 @@ linkFullImages = true
 
 [menu]
 [[menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
 weight = 5
 
 [[menu.main]]
@@ -118,19 +118,19 @@ url = "/archives/"
 weight = 10
 
 [[menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories/"
-weight = 20
-
-[[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 30
+weight = 15
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 20
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 40
+weight = 25
