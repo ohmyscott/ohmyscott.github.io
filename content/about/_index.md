@@ -18,13 +18,13 @@ description: "关于 Scott 和这个博客"
 
 ## 技术栈
 
-- **前端**：React, Vue, TypeScript, HTML/CSS
-- **后端**：Node.js, Python, Go
+- **前端**：React, Vue, TypeScript, HTML/CSS, Next.js
+- **后端**：Node.js, Python, Go, Shell
 - **工具**：Git, Docker, VS Code, Hugo
 
 ## 联系方式
 
 - GitHub: [ohmyscott](https://github.com/ohmyscott)
-- 其他联系方式会陆续添加
+- Email: wyf0931@gmail.com
 
 感谢你访问我的博客！如果有什么问题或建议，欢迎和我交流。

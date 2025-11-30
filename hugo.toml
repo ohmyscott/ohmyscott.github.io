@@ -76,12 +76,12 @@ url = "tags"
 
 # home-info mode
 [params.homeInfoParams]
-Title = "Hi there 👋"
+Title = "干中学！💪"
 Content = "Welcome to my blog"
 
 [[params.socialIcons]]
 name = "twitter"
-url = "https://twitter.com/"
+url = "https://x.com/wyf0931"
 
 [[params.socialIcons]]
 name = "stackoverflow"
