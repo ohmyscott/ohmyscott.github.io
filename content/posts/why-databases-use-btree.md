@@ -1,12 +1,12 @@
 ---
-title: "为什么每个数据库都在用B树"
+title: "为什么每个数据库都在用B树？"
 date: 2025-11-30
 draft: false
 slug: "why-databases-use-btree"
 categories: ["技术"]
 tags: ["数据库", "B-Tree"]
 ShowToc: true
-TocOpen: true
+TocOpen: false
 ---
 
 作为开发者，我经常好奇为什么几乎所有数据库都在使用B-Tree这种看似古老的数据结构。今天我来深入探究一下这个技术选择的底层逻辑。

@@ -7,7 +7,7 @@ categories: ["硬件"]
 tags: ["SSD", "数据存储", "硬件知识"]
 description: "揭示SSD长期断电导致数据流失的技术原理和实用防护策略"
 ShowToc: true
-TocOpen: true
+TocOpen: false
 ---
 
 你可能不知道，你的固态硬盘（SSD）在断电状态下正在悄悄失去数据。这个鲜为人知的硬件特性，可能会让那些将SSD用作"冷存储"的用户措手不及。

@@ -6,7 +6,7 @@ slug: "hugo-papermod-github-pages-blog"
 tags: ["博客", "Hugo", "PaperMod", "GitHub Pages"]
 categories: ["技术"]
 description: "使用 Hugo 和 PaperMod 主题配合 GitHub Pages 搭建个人博客的完整指南"
-ShowToc: true
+ShowToc: false
 ---
 
 

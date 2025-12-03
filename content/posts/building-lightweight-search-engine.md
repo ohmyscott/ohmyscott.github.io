@@ -7,7 +7,7 @@ categories: ["技术"]
 tags: ["搜索引擎", "数据库", "算法"]
 description: "基于现有数据库构建功能完整的轻量级搜索引擎，告别复杂的Elasticsearch配置"
 ShowToc: true
-TocOpen: true
+TocOpen: false
 ---
 
 面对复杂的传统搜索引擎解决方案，你是否曾想过可以基于现有数据库构建一个简单而有效的搜索引擎？今天我要分享一个轻量级搜索引擎的完整实现方案。
