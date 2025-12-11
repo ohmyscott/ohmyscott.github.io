@@ -25,7 +25,7 @@ slug: "{{slug}}"            # 博客文章URI，方便SEO
 draft: false                # 是否草稿
 description: "{{description}}"      # 一段简短摘要（一句到两句）
 ShowToc: true
-TocOpen: true
+TocOpen: false
 ---
 ```
 
